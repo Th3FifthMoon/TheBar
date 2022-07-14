@@ -20,13 +20,10 @@ export default function Body() {
         <div className="wrapper">
             <Container fluid>
                 <Row>
-                    <Col>
-
-                    </Col>
-                    <Col className="my-5 align-left">
+                    <Col className="my-5 align-left col-8">
                         <DrinkItems menuItems={barmenu[menuCategory]} />
                     </Col>
-                    <Col className="my-5">
+                    <Col className="my-5 col-4">
                         <ListGroup className="list-group">
                            {theMenu}
                          </ListGroup>                      

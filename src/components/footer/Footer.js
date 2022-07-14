@@ -15,7 +15,7 @@ export default function Footer(){
 
 
     return (
-        <footer className="mt-auto flex mb-0 pb-0 flex fixed-bottom">
+        <footer className="mt-auto flex mb-0 pb-0 flex">
             <Container fluid className="bg-light mb-0 pb-0">                   
                 <Row>
                     <Col>
