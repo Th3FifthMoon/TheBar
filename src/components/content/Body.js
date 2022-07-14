@@ -26,16 +26,10 @@ export default function Body() {
                     <Col className="my-5 align-left">
                         <DrinkItems menuItems={barmenu[menuCategory]} />
                     </Col>
-                    <Col>
-                        <Container className="px-4">
-                            <Row className="gx-5">
-                                <Col className="my-5 mx-3">
-                                <ListGroup className="list-group">
-                                    {theMenu}
-                                </ListGroup>
-                                </Col>
-                            </Row>
-                        </Container>
+                    <Col className="my-5">
+                        <ListGroup className="list-group">
+                           {theMenu}
+                         </ListGroup>                      
                     </Col>
                 </Row>
             </Container>
