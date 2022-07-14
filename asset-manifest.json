@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/TheBar/static/css/main.13739b35.css",
-    "main.js": "/TheBar/static/js/main.e52024c7.js",
+    "main.js": "/TheBar/static/js/main.9404b0e8.js",
     "static/js/787.12d2c611.chunk.js": "/TheBar/static/js/787.12d2c611.chunk.js",
     "static/media/Trajan Bold.ttf": "/TheBar/static/media/Trajan Bold.93c9354413651070096a.ttf",
     "static/media/laquinta_logo.png": "/TheBar/static/media/laquinta_logo.331308fae81293aa17b4.png",
     "index.html": "/TheBar/index.html",
     "main.13739b35.css.map": "/TheBar/static/css/main.13739b35.css.map",
-    "main.e52024c7.js.map": "/TheBar/static/js/main.e52024c7.js.map",
+    "main.9404b0e8.js.map": "/TheBar/static/js/main.9404b0e8.js.map",
     "787.12d2c611.chunk.js.map": "/TheBar/static/js/787.12d2c611.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.13739b35.css",
-    "static/js/main.e52024c7.js"
+    "static/js/main.9404b0e8.js"
   ]
 }
